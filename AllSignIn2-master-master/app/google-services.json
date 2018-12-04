@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541624740389",
+    "firebase_url": "https://allsignin-5c5e2.firebaseio.com",
+    "project_id": "allsignin-5c5e2",
+    "storage_bucket": "allsignin-5c5e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541624740389:android:9784d542f38fe5f4",
+        "android_client_info": {
+          "package_name": "com.example.greendao.allsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541624740389-299rtnp9qqu6mpamuoleke14ig7sd9ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHszRZvUCXAs-tw6XKR-fWrlocZUYZJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
